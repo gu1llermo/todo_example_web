@@ -25417,7 +25417,7 @@ A.apZ.prototype={
 $1(a){var s=A.e0().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a6bd3f1de158bb61090e0c8053df93a10cb548e1/":s)+a},
+if(s==null)s=null}return(s==null?"/canvaskit/":s)+a},
 $S:83}
 A.ZB.prototype={
 dH(a){B.d.ap(this.a.a.save())},
